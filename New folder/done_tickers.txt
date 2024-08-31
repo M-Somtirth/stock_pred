@@ -1,0 +1,300 @@
+Abbott Laboratories	ABT
+Accolade Inc	ACCD
+Arch Capital Group Ltd	ACGL
+AECOM	AECOM
+Adobe Inc	ADBE
+Autodesk	ADSK
+Aegon Ltd	AEG
+Agenus Inc	AGEN
+Alkami Technology Inc	 ALKT
+Altair Engineering Inc	ALTR
+Applied Materials Inc	 AMAT
+Auddia Inc	AUUD
+Avista Corporation	AVA
+American Vanguard Corporation	AVD
+Broadcom Inc	AVGO
+Avinger Inc	AVGR
+Avient Corporation	AVNT
+Aerovate Therapeutics Inc	 AVTE
+Axos Financial Inc	 AX
+American Express Company	AXP
+Barnes Group Inc.	B
+The Boeing Company	BA
+Alibaba Group Holding Limited	BABA
+Bank of America Corporation	BAC
+Berenson Acquisition Corp	BACA
+IMAC Holdings Inc	 BACK
+Bridger Aerospace Group Holdings Inc	 BAER
+BayFirst Financial Corp	BAFN
+Booz Allen Hamilton Holding Corporation	BAH
+Braskem S.A.	BAK
+Ball Corporation	BALL
+Bally's Corporation	BALY
+Brookfield Asset Management Ltd	BAM
+Banc of California Inc	BANC
+Bandwidth Inc 	BAND
+BancFirst Corporation	BANF
+CBL International Limited	BANL
+Banner Corporation	BANR
+ArrowMark Financial Corp	 BANX
+Baosheng Media Group Holdings Limited 	BAOS
+Credicorp Ltd	BAP
+BARK Inc	 BARK
+BlackRock Inc	 BLK
+Dutch Bros Inc	BROS
+Berry Corporation	BRY
+Citigroup Inc	C
+Cable One Inc	CABO
+Cadence Bank	CADE
+Candel Therapeutics Inc	 CADL
+CAE Inc	CAE
+Cardinal Health Inc	 CAH
+Caleres Inc	CAL
+Captivision Inc	CAPT
+Carisma Therapeutics Inc	 CARM
+Cars.com Inc	CARS
+Carver Bancorp Inc	CARV
+Caterpillar Inc	CAT
+CAVA Group Inc	 CAVA
+CB Financial Services Inc	CBFV
+CBRE Group Inc	CBRE
+Cibus Inc	CBUS
+CBIZ Inc	CBZ
+The Chemours Company	CC
+Capital City Bank Group Inc	CCBG
+C4 Therapeutics Inc	CCCC
+Dominion Energy Inc	D
+Danaos Corporation	DAC
+Data I/O Corporation	DAIO
+DatChat Inc	DATS
+Dave Inc	DAVE
+Day One Biopharmaceuticals Inc	DAWN
+Dayforce Inc	DAY
+Deutsche Bank Aktiengesellschaft	DB
+DocGo Inc	DCGO
+Dime Community Bancshares Inc	DCOM
+Delcath Systems Inc	DCTH
+DHI Group	DHX
+Dine Brands Global Inc	DIN
+Delek US Holdings Inc	DK
+Dollar Tree Inc	DLTR
+Deluxe Corporation	DLX
+Desktop Metal Inc	DM
+DiaMedica Therapeutics Inc 	DMAC
+Eni S.p.A.	E
+Electronic Arts Inc	EA
+GrafTech International Ltd	EAF
+Ellington Credit Company	EARN
+Ellington Credit Company	EARN
+Eastside Distilling, Inc	EAST
+Brinker International, Inc	EAT
+Eventbrite, Inc	EB
+eBay Inc	EBAY
+Eastern Bankshares, Inc	EBC
+Ennis, Inc	EBF
+Eagle Bancorp Montana, Inc	EBMT
+Ebang International Holdings Inc	EBON
+Centrais Eletricas Brasileiras S.A	EBR
+Emergent BioSolutions Inc	EBS
+Enterprise Bancorp, Inc	EBTC
+Ecopetrol S.A	EC
+ECB Bancorp, Inc	ECBK
+ECD Automotive Design, Inc	ECDA
+Ecolab Inc	ECL
+Okeanis Eco Tankers Corp	ECO
+electroCore, Inc	ECOR
+Encore Capital Group, Inc	ECPG
+Ecovyst Inc	ECVT
+ECARX Holdings Inc	ECX
+Consolidated Edison, Inc	ED
+EDAP TMS S.A	EDAP
+Edible Garden AG Incorporated	EDBL
+Editas Medicine, Inc	EDIT
+Educational Development Corporation	EDUC
+Endeavor Group Holdings, Inc	EDR
+EuroDry Ltd	EDRY
+Edesa Biotech, Inc	EDSA
+Flex Ltd	FLEX
+Flora Growth Corp	FLGC
+Fulgent Genetics, Inc	FLGT
+The First of Long Island Corporation	FLIC
+Full House Resorts, Inc	FLL
+Fluence Energy, Inc	FLNC
+FLEX LNG Ltd	FLNG
+Fluent, Inc	FLNT
+Flowers Foods, Inc	FLO
+Fluor Corporation	FLR
+Flowserve Corporation	FLS
+Flutter Entertainment plc	FLUT
+Flux Power Holdings, Inc	FLUX
+1-800-FLOWERS.COM, Inc	FLWS
+Flexsteel Industries, Inc	FLXS
+Fly-E Group, Inc	FLYE
+Flywire Corporation	FLYW
+flyExclusive, Inc	FLYX
+Farmers & Merchants Bancorp, Inc	FMAO
+First Mid Bancshares, Inc	FMBH
+FMC Corporation	FMC
+Farmers National Banc Corp	FMNB
+Fresenius Medical Care AG	FMS
+Foremost Lithium Resource & Technology	FMST
+Paragon 28, Inc	FNA
+Fabrinet	FN
+The Gap, Inc	GPS
+Grab Holdings Limited	GRAB
+Graf Global Corp	GRAF
+GRAIL, Inc	GRAL
+Green Brick Partners, Inc	GRBK
+The Gorman-Rupp Company	GRC
+Griid Infrastructure Inc	GRDI
+Greenidge Generation Holdings Inc	GREE
+Grifols, S.A	GRFS
+Graphex Group Limited	GRFX
+GRI Bio, Inc	GRI
+Grindrod Shipping Holdings Ltd	GRIN
+Garmin Ltd	GRMN
+Grindr Inc	GRND
+Greenpro Capital Corp	GRNQ
+Granite Ridge Resources, Inc	GRNT
+Grom Social Enterprises, Inc	GROM
+Grove Collaborative Holdings, Inc	GROV
+U.S. Global Investors, Inc	GROW
+Gold Royalty Corp	GROY
+Groupon, Inc	GRPN
+Gorilla Technology Group Inc	GRRR
+Gritstone bio, Inc	GRTS
+Gravity Co., Ltd	GRVY
+GrowGeneration Corp	GRWG
+Gryphon Digital Mining, Inc	GRYP
+The Goldman Sachs Group, Inc	GS
+Globalstar, Inc	GSAT
+Great Southern Bancorp, Inc	GSBC
+Goldman Sachs BDC, Inc	GSBD
+Goosehead Insurance, Inc	GSHD
+GSI Technology, Inc	GSIT
+Garden Stage Limited	GSIW
+GSK plc	GSK
+Hudbay Minerals Inc	HBM
+Horizon Bancorp, Inc	HBNC
+HBT Financial, Inc	HBT
+HCA Healthcare, Inc	HCA
+Health Catalyst, Inc	HCAT
+Warrior Met Coal, Inc	HCC
+HCI Group, Inc	HCI
+The Hackett Group, Inc	HCKT
+HUTCHMED (China) Limited	HCM
+HashiCorp, Inc	HCP
+Healthcare Services Group, Inc	HCSG
+Healthcare Triangle, Inc	HCTI
+Hennessy Capital Investment Corp. VI	HCVI
+HCW Biologics Inc	HCWB
+The Home Depot, Inc	HD
+HDFC Bank Limited	HDB
+Super Hi International Holding Ltd	HDL
+Hudson Technologies, Inc	HDSN
+Hawaiian Electric Industries, Inc	HE
+Turtle Beach Corporation	HEAR
+H&E Equipment Services, Inc	HEES
+HEICO Corporation	HEI
+Helen of Troy Limited	HELE
+Hepion Pharmaceuticals, Inc	HEPA
+Hamilton Insurance Group, Ltd	HG
+Hess Corporation	HES
+Hess Midstream LP	HESM
+Heritage Financial Corporation	HFWA
+HF Foods Group Inc	HFFG
+ICICI Bank Limited	IBN
+International Bancshares Corporation	IBOC
+Installed Building Products, Inc	IBP
+ImmunityBio, Inc	IBRX
+Ibotta, Inc	IBTA
+Independent Bank Group, Inc	IBTX
+iCAD, Inc	ICAD
+ImmuCell Corporation	ICCC
+ICC Holdings, Inc	ICCH
+IceCure Medical Ltd	ICCM
+iCoreConnect Inc	ICCT
+Independence Contract Drilling, Inc	ICD
+Intercontinental Exchange, Inc	ICE
+ICF International, Inc	ICFI
+Intchains Group Limited	ICG
+Ichor Holdings, Ltd	ICHR
+ICL Group Ltd	ICL
+iClick Interactive Asia Group Limited	ICLK
+ICON Public Limited Company	ICLR
+Icon Energy Corp	ICON
+Ivanhoe Electric Inc	IE
+SeaStar Medical Holding Corporation	ICU
+ICU Medical, Inc	ICUI
+IDACORP, Inc	IDA
+T Stamp Inc	IDAI
+InterDigital, Inc	IDCC
+Inception Growth Acquisition Limited	IGTA
+J&J Snack Foods Corp	JJSF
+Jack Henry & Associates, Inc	JKHY
+JinkoSolar Holding Co., Ltd	JKS
+J-Long Group Limited	JL
+Jones Lang LaSalle Incorporated	JLL
+Jumia Technologies AG	JMIA
+John Marshall Bancorp, Inc	JMSB
+Johnson & Johnson	JNJ
+Juniper Networks, Inc	JNPR
+Janover Inc	JNVR
+GEE Group Inc	JOB
+Joby Aviation, Inc	JOBY
+The St. Joe Company	JOE
+Johnson Outdoors Inc	JOUT
+JPMorgan Chase & Co	JPM
+Jerash Holdings (US), Inc	JRSH
+James River Group Holdings, Ltd	JRVR
+Jasper Therapeutics, Inc	JSPR
+Jet.AI Inc	JTAI
+Junee Limited	JUNE
+Coffee Holding Co., Inc	JVA
+JVSPAC Acquisition Corp	JVSA
+Jowell Global Ltd	JWEL
+Nordstrom, Inc	JWN
+Jaws Mustang Acquisition Corporation	JWSM
+JX Luxventure Limited	JXJT
+Kaival Brands Innovations Group, Inc	KAVL
+KB Financial Group Inc	KB
+Kayne Anderson BDC, Inc	KBDC
+KB Home	KBH
+KBR, Inc	KBR
+Kingsoft Cloud Holdings Limited	KC
+Kensington Capital Acquisition Corp. V	KCGI
+Kyndryl Holdings, Inc	KD
+Kindly MD, Inc	KDLY
+Keurig Dr Pepper Inc	KDP
+Kimball Electronics, Inc	KE
+Kelly Services, Inc	KELYA
+Kimco Realty Corporation	KIM
+Kenon Holdings Ltd	KEN
+Korea Electric Power Corporation	KEP
+Kewaunee Scientific Corporation	KEQU
+Kirby Corporation	KEX
+KeyCorp	KEY
+Keysight Technologies, Inc	KEYS
+Kentucky First Federal Bancorp	KFFB
+Kforce Inc	KFRC
+Kingsway Financial Services Inc	KFS
+Korn Ferry	KFY
+Kinross Gold Corporation	KGC
+Kolibri Global Energy Inc.	KGEI
+Kodiak Gas Services, Inc	KGS
+The Kraft Heinz Company	KHC
+OrthoPediatrics Corp	KIDS
+CS Disco, Inc	LAW
+Lazard, Inc	LAZ
+Luminar Technologies, Inc	LAZR
+LandBridge Company LLC	LB
+Longboard Pharmaceuticals, Inc	LBPH
+Liberty Broadband Corporation	LBRDA
+Laser Photonics Corporation	LASE
+Liberty Energy Inc	LBRT
+LendingClub Corporation	LC
+Locafy Limited	LCFY
+Lucid Group, Inc	LCID
+LCI Industries	LCII
+LCNB Corp	LCNB
+Lineage Cell Therapeutics, Inc	LCTX

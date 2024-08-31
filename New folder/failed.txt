@@ -1,0 +1,5 @@
+ValueError: If using all scalar values, you must pass an index for  CADL
+ValueError: If using all scalar values, you must pass an index for  CAH
+ValueError: If using all scalar values, you must pass an index for  CARM
+ValueError: If using all scalar values, you must pass an index for  CAVA
+An error occurred: [Errno 2] No such file or directory: 'Data I/O Corporation_data.csv' for DAIO
