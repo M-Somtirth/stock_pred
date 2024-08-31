@@ -1,9 +1,6 @@
 Flask
-io
-time
 gzip
 pandas
-os
 requests==2.26.0
 numpy
 pmdarima
