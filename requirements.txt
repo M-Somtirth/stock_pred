@@ -16,4 +16,3 @@ scikit_learn
 yfinance
 alpha_vantage==2.3.1
 gunicorn
-tornado
