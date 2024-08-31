@@ -1,12 +1,11 @@
-Flask 
-request
+Flask
 csv
 io
 time
 gzip
 pandas
 os
-requests
+requests=2.26.0
 numpy
 pmdarima
 statsmodels.tsa.statespace.sarimax
