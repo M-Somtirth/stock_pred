@@ -169,5 +169,3 @@ def hello_world():
     }
     response = {k: {str(key): value for key, value in v.items()} for k, v in response.items()}
     return jsonify(response)
-if __name__ == '__main__':
-    app.run(debug=True)
