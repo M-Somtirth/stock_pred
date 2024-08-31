@@ -5,7 +5,6 @@ numpy
 pmdarima
 statsmodels
 matplotlib
-pickle
 tensorflow
 nltk==3.5
 keras
