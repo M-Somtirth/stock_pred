@@ -4,11 +4,6 @@
       { "src": "app.py", "use": "@vercel/python" }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "app.py" }
-    ],
-        "functions": {
-          "api/**.py": {
-            "runtime": "python3.9"
-          }
-        }
+      { "src": "/(.*)", "dest": "index.py" }
+    ]
   }
