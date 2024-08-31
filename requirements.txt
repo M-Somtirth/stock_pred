@@ -1,5 +1,4 @@
 Flask
-gzip
 pandas
 requests==2.26.0
 numpy
